@@ -60,6 +60,6 @@
  - Load Settings
 
 > Keybinds
- [ = Recenter GUI
- \ = Disable All Mods
+ [ (Left Bracket) = Recenter GUI
+ \ (Backslash) = Disable All Mods
  Insert (FN + Delete) = Toggle GUI
