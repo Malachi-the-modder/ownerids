@@ -7,7 +7,7 @@
 
 [__LOBBY__]
 > Info
- Shows info of the lobby you're in
+ Shows info of the lobby you're in such as room code, map, amount of players, gamemode and more
 
 > Joiner
  - (text box)
