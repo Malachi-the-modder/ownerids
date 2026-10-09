@@ -1,5 +1,5 @@
 9.04
-null
+NEW MENU UPDATE SOON
 City_Pretty/Event_Overview_AlienArrival/10_02_ArrivalExperience:city
 779726CD0EFEAB05
 46166C68804B77B2
