@@ -1,5 +1,5 @@
 9.05
-null
+NEW MENU UPDATE SOON
 City_Pretty/Event_Overview_AlienFight/10_16_AlienFightExperience:city
 779726CD0EFEAB05
 46166C68804B77B2
